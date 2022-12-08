@@ -1,0 +1,4 @@
+.place__text {
+  display: grid;
+  row-gap: 25px;
+}
