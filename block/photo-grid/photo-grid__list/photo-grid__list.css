@@ -8,3 +8,9 @@
   grid-template-columns: repeat(auto-fit, minmax(286px, 1fr));
   gap: 12px;
 }
+
+@media  screen and (min-width: 768px) {
+  .photo-grid__list {
+    gap: 16px;
+  }
+}

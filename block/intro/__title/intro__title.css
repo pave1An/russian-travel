@@ -6,3 +6,17 @@
   margin: 0;
   padding: 0;
 }
+
+@media screen and (min-width: 768px) {
+  .intro__title {
+    font-size: 54px;
+    line-height: 58px;
+  }
+}
+
+@media screen and (min-width: 1024x) {
+  .intro__title {
+    font-size: 96px;
+    line-height: 100px;
+  }
+}

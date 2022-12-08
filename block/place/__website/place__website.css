@@ -1,5 +1,13 @@
 .place__website {
   padding: 0 16px;
-  display: grid;
-  row-gap: 12px;
+  align-items: start;
+  display: flex;
+  justify-content: end;
+  flex-direction: column;
+}
+
+@media  screen and (min-width: 768px) {
+  .place__website {
+    padding: 0;
+  }
 }

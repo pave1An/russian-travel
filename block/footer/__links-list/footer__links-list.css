@@ -1,7 +1,14 @@
 .footer__links-list {
   display: grid;
-  gap: 32px;
+  row-gap: 32px;
   list-style: none;
   padding: 0;
   margin: 0;
+}
+
+@media screen and (min-width: 768px) {
+  .footer__links-list {
+    grid-template-columns: repeat(5,  min-content);
+    column-gap: 18px;
+  }
 }
