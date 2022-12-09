@@ -10,4 +10,4 @@
 * HTML
 * CSS
 
-Посмотреть работу можно [здесь]([ссылка](https://pave1an.github.io/russian-travel/) "Перейти").
+Посмотреть работу можно [здесь]([https://pave1an.github.io/russian-travel/] "Перейти").
