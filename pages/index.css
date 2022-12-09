@@ -8,7 +8,7 @@
 @import "../block/header/__logo/header__logo.css";
 @import "../block/header/__lang-link/header__lang-link.css";
 @import "../block/header/__lang-links/lang-links.css";
-@import "../block/header/__lang-link/header__lang-link_underline.css";
+@import "../block/header/__lang-link/_underline/header__lang-link_underline.css";
 
 @import "../block/lead/lead.css";
 @import "../block/lead/__title/lead__title.css";
@@ -23,10 +23,12 @@
 @import "../block/intro/__list-fact/intro__list-fact.css";
 
 @import "../block/photo-grid/photo-grid.css";
-@import "../block/photo-grid/photo-grid__list/photo-grid__list.css";
+@import "../block/photo-grid/__list/photo-grid__list.css";
 @import "../block/photo-grid/__item/phoro-grid__item.css";
 
 @import "../block/places/places.css";
+@import "../block/places/__list/places__list.css";
+
 @import "../block/place/place.css";
 @import "../block/place/__image/place__image.css";
 @import "../block/place/__title/place__title.css";
