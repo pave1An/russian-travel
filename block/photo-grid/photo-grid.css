@@ -7,3 +7,18 @@
     padding: 88px 24px 0;
   }
 }
+
+@media  screen and (min-width: 1024px) {
+  .photo-grid {
+    padding: 92px 48px 0;
+  }
+}
+
+@media  screen and (min-width: 1280px) {
+  .photo-grid {
+    max-width: 1184px;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 auto;
+  }
+}
