@@ -1,9 +1,5 @@
 .cover {
-<<<<<<< HEAD
   background-image: linear-gradient(rgba(0, 0, 0, .3),rgba(0, 0, 0, .3)),
-=======
-  background-image: linear-gradient(rgba(0, 0, 0, .3),rgba(0, 0, 0, .3)), 
->>>>>>> fede8817b91200d7a0a6fc1197ff8a801195dc5a
   url(../../images/cover-trains.jpg);
   background-size: cover;
   background-position: center;
