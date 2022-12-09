@@ -14,9 +14,9 @@
   }
 }
 
-@media screen and (min-width: 1024x) {
+@media screen and (min-width: 1024px) {
   .intro__title {
-    font-size: 96px;
-    line-height: 100px;
+    font-size: 54px;
+    line-height: 58px;
   }
 }
